@@ -98,3 +98,23 @@ display: none;
     }
 }
 
+.home{
+display: grid;
+justify-content: center;
+background: fixed;
+    
+}
+.home a{
+    background-color: aqua;
+    color: wihte;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-sizing: border-box;
+    width: fit-content;
+    text-decoration: none;
+
+}
